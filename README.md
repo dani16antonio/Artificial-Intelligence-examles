@@ -1,2 +1,2 @@
-# Artificial-Intelligence-examles
+# Artificial-Intelligence-examples
 Artificial Intelligence scripts
